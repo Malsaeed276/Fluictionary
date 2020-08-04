@@ -204,7 +204,8 @@ class page extends State<DictionaryPage> {
            Expanded(
              child: Container(
                 decoration: BoxDecoration(
-                  color: Colors.amber,
+                  // for check the problem
+                //  color: Colors.amber,
                 ),
                 //margin: const EdgeInsets.all(5.0),
 
